@@ -1,3 +1,4 @@
 #!/bin/bash
 
 echo "This is a test, this is only a test"
+echo "sure, but this is not a very helpful test"
